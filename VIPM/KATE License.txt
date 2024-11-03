@@ -1,0 +1,51 @@
+End-User License Agreement ("Agreement")
+Last updated: 9/1/2017
+
+Please read this End-User License Agreement ("Agreement") carefully before clicking the "I Agree" button, downloading or using KATE VIP ("Application").
+
+By clicking the "I Agree" button, downloading or using the Application, you are agreeing to be bound by the terms and conditions of this Agreement.
+
+If you do not agree to the terms of this Agreement, do not click on the "I Agree" button and do not download or use the Application.
+
+License
+
+The Kwest Engineering Auto Test Executive (KATE) virtual instrument package (VIP) is developed and owned by Kwest Engieering.  This VIP is NOT Freeware.  This is a private version of this VIP and is provided by Kwest Engineering to specific customers.  If you or your company does NOT HAVE written permission from Kwest Engineering to use this VIP then do NOT proceed.
+
+A licensed version of this VIP will be (or is already) avaialble for purchase at the National Instrumment website as a LabVIEW addon toolkit.  
+
+If you have written agreement to use this software, then Kwest Engineering grants you permission to install and use this VIP strictly in accordance with the terms of this Agreement.
+
+Restrictions
+
+You agree not to, and you will not permit others to:
+
+a) license, sell, rent, lease, assign, distribute, transmit, host, outsource, disclose or otherwise commercially exploit this VIP or make the use of parts of this VIP available to any third party.
+
+The Restrictions section is for applying certain restrictions on the app usage, e.g. user can't sell applications produced using this VIP , user can't distribute applications that use this VIP for any other purpose other than to provide service to Kwest Engineering's customer.
+
+Modifications to Application
+
+Kwest Engineering reserves the right to modify, suspend or discontinue, temporarily or permanently, the VIP, with or without notice and without liability to you.
+
+
+Term and Termination
+
+This Agreement shall remain in effect until terminated by Kwest Engineering. 
+
+Kwest Engineering may, in its sole discretion, at any time and for any or no reason, suspend or terminate this Agreement with or without prior notice.
+
+This Agreement will terminate immediately, without prior notice from Kwest Engineering, in the event that you fail to comply with any provision of this Agreement. You may also terminate this Agreement by deleting the VIP and all copies thereof from your computers.
+
+Upon termination of this Agreement, you shall cease all use of the VIP and delete all copies of the VIP from your computers.
+
+Severability
+
+If any provision of this Agreement is held to be unenforceable or invalid, such provision will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law and the remaining provisions will continue in full force and effect.
+
+Amendments to this Agreement
+
+VIP reserves the right, at its sole discretion, to modify or replace this Agreement at any time. If a revision is material we will provide at least 30  days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
+
+Contact Information
+
+If you have any questions about this Agreement, please contact Kwest Engineering at support@kwesteng.com.
